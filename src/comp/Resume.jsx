@@ -7,7 +7,7 @@ const Resume = () => {
   return (
     <section className="resume sm:w-[67%] xl:w-[44%]">
       <p className="text-4xl font-bold lg:pt-0 mt-6 mb-4">Get my Resume</p>
-        <div className="hover:translate-x-2 duration-300">
+        <div className="hover:translate-x-2 duration-300 mb-1">
         <img data-aos="fade-up"
           data-aos-duration="1000"
           className="object-contain rounded-md" src="https://onedrive.live.com/embed?resid=2B8158E257563B12%21318&authkey=%21AHhCZTCi9YXb_EQ&width=2480&height=3508" alt="resume-view" />

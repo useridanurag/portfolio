@@ -43,7 +43,7 @@ const Projects = () => {
             <p className="text-xl lg:text-2xl mt-2 mb-6">Portfolio Website</p>
             <img className='w-full rounded-xl xl:hidden' src="" alt="Project-Image" />
             <p className="text-xl font-bellefair md:text-3xl font-thin text-zinc-400 mt-4">My portfolio website is a comprehensive showcase of my skills and works, It is designed and developed with a user friendly interface and clean, professional look to provide a smooth browsing experience for visitors.The website is built using React - js, Tailwind - CSS and other library, which describes my knowladge and understanding of the web teachnology.</p>
-            <a href="https://github.com/useridanurag/reactRouter" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/useridanurag/portfolio" target="_blank" rel="noopener noreferrer">
               <button className="border rounded-full my-4 py-4 px-6 text-sm md:text-lg font-thin hover:text-blue-600 group">Get the Source Code : <BiLinkExternal className="inline group-hover:text-[1.6rem] group-hover:text-blue-600 " /></button>
             </a>
 
