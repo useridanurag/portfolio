@@ -33,7 +33,7 @@ const Projects = () => {
         <div className=' hover:-translate-y-8 duration-500 hidden xl:inline  col-span-2'>
           <img data-aos="fade-down"
             data-aos-duration="1000"
-            className='rounded-xl ' src="" alt="Project-Image" />
+            className='rounded-xl ' src="https://onedrive.live.com/embed?resid=2B8158E257563B12%21322&authkey=%21AGuc_2bw38jnpQY&width=1920&height=1080" alt="Project-Image" />
         </div>
         <div className='hover:-translate-y-8 duration-500 text-right pl-3 col-span-3'>
           <div data-aos="fade-right"
@@ -41,7 +41,7 @@ const Projects = () => {
             className='xl:pt-6 pl-3'>
             <p className="text-4xl lg:text-5xl font-bold"># Project 2</p>
             <p className="text-xl lg:text-2xl mt-2 mb-6">Portfolio Website</p>
-            <img className='w-full rounded-xl xl:hidden' src="" alt="Project-Image" />
+            <img className='w-full rounded-xl xl:hidden' src="https://onedrive.live.com/embed?resid=2B8158E257563B12%21322&authkey=%21AGuc_2bw38jnpQY&width=1920&height=1080" alt="Project-Image" />
             <p className="text-xl font-bellefair md:text-3xl font-thin text-zinc-400 mt-4">My portfolio website is a comprehensive showcase of my skills and works, It is designed and developed with a user friendly interface and clean, professional look to provide a smooth browsing experience for visitors.The website is built using React - js, Tailwind - CSS and other library, which describes my knowladge and understanding of the web teachnology.</p>
             <a href="https://github.com/useridanurag/portfolio" target="_blank" rel="noopener noreferrer">
               <button className="border rounded-full my-4 py-4 px-6 text-sm md:text-lg font-thin hover:text-blue-600 group">Get the Source Code : <BiLinkExternal className="inline group-hover:text-[1.6rem] group-hover:text-blue-600 " /></button>
