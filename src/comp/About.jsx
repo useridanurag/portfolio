@@ -9,7 +9,7 @@ const About = () => {
       <p className='text-center text-2xl md:text-5xl font-semibold sm:pb-6'>About</p>
       <div className='grid grid-cols-1 xl:grid-cols-2 xl:flex gap-10 xl:gap-20'>
         <div className="lg:basis-[55%]" data-aos="flip-up" data-aos-duration="2000" >
-          <img className='mt-4 md:mt-0 rounded-lg shadow-md transform transition-all duration-500 hover:shadow-lg hover:scale-105' src="" alt="AboutImg" />
+          <img className='mt-4 md:mt-0 rounded-lg shadow-md transform transition-all duration-500 hover:shadow-lg hover:scale-105' src="https://onedrive.live.com/embed?resid=2B8158E257563B12%21321&authkey=%21AF50ebIs56bksKg&height=660" alt="AboutImg" />
 
         </div>
         <div className='lg:basis-[45%]'>
