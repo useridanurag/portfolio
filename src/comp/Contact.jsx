@@ -47,7 +47,7 @@ const Contact = () => {
 
           <div className="flex jusitfy-center allign-center pb-2 md:pb-3 hover:text-white">
             <div><GoLocation className="text-2xl pb-1 sm:text-3xl lg:mt-1" /></div>
-            <p className="font-light text-sm pl-2 sm:inline sm:pl-4 sm:text-lg md:text-xl lg:text-2xl hover:translate-x-2 duration-300">House No-117, Hausing Board Phase 5, Baddi Himachal Pradesh, Pin-173205 (India).</p>
+            <p className="font-light text-sm pl-2 sm:inline sm:pl-4 sm:text-lg md:text-xl lg:text-2xl hover:translate-x-2 duration-300">House No - 117, Hausing Board colony, Bhatoli khurd, Baddi Phase 5, District - Solan, Himachal Pradesh, Pin-173205 (India).</p>
           </div>
           <br />
 
