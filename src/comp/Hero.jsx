@@ -11,7 +11,7 @@ const Hero = () => {
       <p data-aos="fade-right"
         data-aos-duration="1000"
         data-aos-delay="600"
-        className="font-bellefair text-xl sm:text-3xl md:text-3xl text-slate-500 ">
+        className="font-bellefair text-xl sm:text-3xl md:text-3xl text-zinc-300 ">
         I am Anurag, a web developer who focuses on achieving modern websites with better user interface as well as better user experience. I bring value to web development projects by combining technical expertise with creativity and aesthetics. I am curious and always looking for new ideas and inspirations.
       </p>
       <br/>
