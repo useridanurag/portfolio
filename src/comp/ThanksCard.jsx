@@ -9,7 +9,7 @@ const ThanksCard = () => {
       <br />
       Wishing you a fantastic day ahead !
     </p>
-    <p className='text-center font-thin text-zinc-400 sm:text-lg mt-4'>Anurag</p>
+    <p className='text-center font-thin text-zinc-300 sm:text-lg mt-4'>Anurag</p>
 
   </div>
 }

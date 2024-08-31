@@ -37,7 +37,7 @@ const Contact = () => {
     <RoundedContainer >
       <p className='text-center text-2xl md:text-5xl font-semibold sm:pb-6'>Contact</p>
       <div className='grid grid-cols-1 lg:grid-cols-2 lg:flex gap-6'>
-        <div className='text-zinc-400 lg:mr-16'>
+        <div className='text-zinc-300 lg:mr-16'>
           <p className='py-6 text-left md:pr-16 text-xl font-medium text-zinc-50'>Get In Touch</p>
           <div className="flex jusitfy-center allign-center pb-2 md:pb-3 hover:text-white">
             <div><GoLocation className="text-2xl pb-1 sm:text-3xl lg:mt-1" /></div>

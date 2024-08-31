@@ -12,7 +12,7 @@ const SkillCard = ({ techName, techPara, techIcon: TechIcon, techColor }) => {
       <div className='duration-500 group-hover:scale-105 xl:text-xl'>
         <div className={`text-[2.5rem] flex justify-center ${techColor}`}> {<TechIcon />}</div>
         <p className="p-3 font-semibold">{techName}</p>
-        <p className="text-zinc-400 group-hover:text-zinc-50">{techPara}</p>
+        <p className="text-zinc-300 group-hover:text-zinc-50">{techPara}</p>
       </div>
     </div>
   </>

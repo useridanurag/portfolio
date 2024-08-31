@@ -13,7 +13,7 @@ const About = () => {
 
         </div>
         <div className='lg:basis-[45%]'>
-          <div className='font-light font-bellefair text-zinc-400 text-lg md:text-[1.40rem] xl:text-[1.7rem]'>
+          <div className='font-light font-bellefair text-zinc-300 text-lg md:text-[1.40rem] xl:text-[1.7rem]'>
             <div data-aos="zoom-in" data-aos-duration="1000">
               <p className='shadow-md transform transition-all duration-500 hover:shadow-lg hover:scale-105'>I am Anurag, a web developer who focuses on achieving modern websites with better user interface as well as better user experience. I bring value to web development projects by combining technical expertise with creativity and aesthetics.</p>
             </div>

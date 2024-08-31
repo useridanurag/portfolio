@@ -67,7 +67,7 @@ const Footer = () => {
       </div>
       <div  className="md:hidden mx-5"><ThanksCard /></div>
     </div>
-    <p className='text-center py-1 text-[0.8rem] sm:text-base text-zinc-400 font-extralight '>Copyright © 2024 All Rights Reserved.</p>
+    <p className='text-center py-1 text-[0.8rem] sm:text-base text-zinc-300 font-extralight '>Copyright © 2024 All Rights Reserved.</p>
   </>
 }
 
