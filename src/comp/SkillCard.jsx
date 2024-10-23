@@ -8,7 +8,7 @@ const SkillCard = ({ techName, techPara, techIcon: TechIcon, techColor }) => {
     <div data-aos="fade-up"
       data-aos-duration="1000"
       data-aos-mirror="true"
-      className="group bg-zinc-900 rounded-xl md:h-70 lg:h-80 xl:h-[17rem] p-6 my-4 sm:my-0 border border-zinc-700">
+      className="group bg-zinc-900 rounded-xl p-6 my-4 sm:my-0 border border-zinc-700"> {/* md:h-70 lg:h-80 xl:h-[17rem] */}
       <div className='duration-500 group-hover:scale-105 xl:text-xl'>
         <div className={`text-[2.5rem] flex justify-center ${techColor}`}> {<TechIcon />}</div>
         <p className="p-3 font-semibold">{techName}</p>
