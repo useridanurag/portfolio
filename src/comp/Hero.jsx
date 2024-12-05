@@ -12,7 +12,7 @@ const Hero = () => {
         data-aos-duration="1000"
         data-aos-delay="600"
         className="font-bellefair text-xl sm:text-3xl md:text-3xl text-zinc-300 ">
-        I am Anurag, a web developer who focuses on achieving modern websites with better user interface as well as better user experience. I bring value to web development projects by combining technical expertise with creativity and aesthetics. I am curious and always looking for new ideas and inspirations.
+        A web developer is like a digital architect, building the bridges between ideas and experiences on the internet. With every line of code, they create spaces where creativity, functionality, and innovation meet, shaping how we interact with the online world. It's not just about writing code—it's about crafting seamless experiences that connect people, solve problems, and bring visions to life in the ever-evolving landscape of the web.
       </p>
       <br/>
       <ResumeDownloadReadMoreBtn/>
